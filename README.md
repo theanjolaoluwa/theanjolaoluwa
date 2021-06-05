@@ -2,7 +2,7 @@
 - 👀 I’m interested in python programming language
 - 🌱 I’m currently learning python for data science
 - 💞️ I’m looking to collaborate on data science projects
-- 📫  
+- 📫 adebimpeelijah@gmail.com
 
 <!---
 theanjolaoluwa/theanjolaoluwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
