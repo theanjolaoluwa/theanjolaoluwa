@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theanjolaoluwa
 - 👀 I’m interested in python programming language
-- 🌱 I’m currently learning python for data science
+- 🌱 I’m currently developing python for data science
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 adebimpeelijah@gmail.com
 
